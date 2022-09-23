@@ -1,20 +1,20 @@
 # Hi there 👋, I am Sreekanth S
 
 ## I am...
-😃 I am a Front End Developer.
-❤ I am passionate about coding.
-🙎‍♂️ I am a BTech student 2020-24.
-🐈 I love cats even though i dont have a pet.
-✌️ I come in peace.
-🎵 I love listening to music.
+- 😃 I am a Front End Developer.
+- ❤ I am passionate about coding.
+- 🙎‍♂️ I am a BTech student 2020-24.
+- 🐈 I love cats even though i dont have a pet.
+- ✌️ I come in peace.
+- 🎵 I love listening to music.
 
-## Skills
-✅️ HTML / CSS / JS
-✅️ Python / C / Java
-✅️ Git vcs
+## My Skills
+- ✅️ HTML / CSS / JS
+- ✅️ Python / C / Java
+- ✅️ Git vcs
 
 ## About
-- 🌱 I’m currently learning the necessary skills required to become a Full Stack Developer. 
+- 🌱 I’m currently learning the necessary skills required to become a Full Stack Developer.
 - 👯 I’m looking to collaborate on projects involving web development. 
 - 📫 How to reach me: sreekanthsanthosh17@gmail.com 
 - 😄 Pronouns: he/him 
