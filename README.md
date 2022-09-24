@@ -19,6 +19,11 @@
 - 📫 How to reach me: sreekanthsanthosh17@gmail.com 
 - 😄 Pronouns: he/him 
 
+## Projects
+Here are some of my projects :- <br>
+- [PDSA Textbook](https://www.github.com/sreekanths-24/PDSA-Textbook)
+- [Google Clone](https://www.github.com/sreekanths-24/google-clone)
+
 ## Social
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sreekanths-24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sreekanth_santhosh17/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/fantasticdracula)  
