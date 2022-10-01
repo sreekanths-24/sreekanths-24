@@ -37,6 +37,7 @@ Here are some of my projects :- <br>
 
 
 ## Stats
+<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sreekanths-24&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -47,3 +48,4 @@ Here are some of my projects :- <br>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sreekanths-24&theme=radical)  
 
+</div>
