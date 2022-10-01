@@ -8,6 +8,7 @@
 
 ## About
 - 🌱 I’m currently learning the necessary skills required to become a Full Stack Developer.
+- 💬 Ask me about **HTML5, CSS3, GIT VCS.**
 - 👯 I’m looking to collaborate on projects involving web development. 
 - 📫 How to reach me: sreekanthsanthosh17@gmail.com 
 - 😄 Pronouns: he/him 
