@@ -33,12 +33,12 @@ Here are some of my projects :- <br>
 
 ## Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sreekanths-24)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sreekanths-24&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreekanths-24)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreekanths-24&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sreekanths-24&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sreekanths-24&show_icons=true&theme=radical)  
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sreekanths-24)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sreekanths-24&theme=radical)  
 
