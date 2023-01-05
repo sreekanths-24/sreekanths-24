@@ -15,6 +15,7 @@
 
 ## About
 - 🌱 I’m currently learning the necessary skills required to become a Full Stack Developer.
+- 🔗 check out my <a href="https://sreekanthsanthosh.netlify.app/" target="_blank" rel="noreferrer">Personal Website</a>
 - 💬 Ask me about **HTML5, CSS3, GIT VCS.**
 - 👯 I’m looking to collaborate on projects involving web development. 
 - 📫 How to reach me: sreekanthsanthosh17@gmail.com 
@@ -34,6 +35,7 @@ Languages and Tools :-
 Here are some of my projects :- <br>
 - [PDSA Textbook](https://www.github.com/sreekanths-24/PDSA-Textbook)
 - [Google Clone](https://www.github.com/sreekanths-24/google-clone)
+- [Personal Website](https://www.github.com/sreekanths-24/personal-website)
 
 ## Connect With Me
 <p align="left">
