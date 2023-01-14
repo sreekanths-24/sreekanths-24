@@ -36,6 +36,7 @@ Here are some of my projects :- <br>
 - [PDSA Textbook](https://www.github.com/sreekanths-24/PDSA-Textbook)
 - [Google Clone](https://www.github.com/sreekanths-24/google-clone)
 - [Personal Website](https://www.github.com/sreekanths-24/personal-website)
+- [JavaScript Projects](https://www.github.com/sreekanths-24/js-projects-beginners)
 
 ## Connect With Me
 <p align="left">
