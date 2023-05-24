@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi I'm Sreekanth S</h1>
 
 
-<h3 align="center">A Front End Developer learning his way to become a Full Stack Developer.</h3>
+<h3 align="center">Active Learning Django Full Stack Developer</h3>
 
 <br>
 
@@ -41,8 +41,8 @@
 
 ## My Projects
 Here are some of my projects :- <br>
-- [PDSA Textbook](https://www.github.com/sreekanths-24/PDSA-Textbook)
-- [Google Clone](https://www.github.com/sreekanths-24/google-clone)
+- [Personal Website](https://www.github.com/sreekanths-24/personal-website)
+- [College mini project](https://www.github.com/sreekanths-24/CRM)
 
 ## Connect With Me
 
