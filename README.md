@@ -24,6 +24,8 @@
 
 ## Tech Stack
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -42,7 +44,7 @@
 ## My Projects
 Here are some of my projects :- <br>
 - [Personal Website](https://www.github.com/sreekanths-24/personal-website)
-- [College mini project](https://www.github.com/sreekanths-24/CRM)
+- [College mini project](https://www.github.com/sreekanths-24/CRM2)
 
 ## Connect With Me
 
