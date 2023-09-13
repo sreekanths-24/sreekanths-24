@@ -72,14 +72,14 @@ Here are some of my projects :- <br>
 ## Stats
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sreekanths-24&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sreekanths-24&theme=onestar&column=3&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreekanths-24&layout=compact&theme=matrix)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sreekanths-24&show_icons=true&theme=matrix)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreekanths-24&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sreekanths-24&theme=matrix)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sreekanths-24&show_icons=true&theme=dark)  
+
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sreekanths-24&theme=dark)  
 
 </div>
