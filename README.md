@@ -22,10 +22,14 @@
 </p>
 
 ## About Me
-Greetings! I'm Sreekanth S, a Final Year Computer Science and Engineering (CSE) Undergraduate Student at AWH Engineering College. My journey in the tech world has been an exciting one. As a self-taught Django Full Stack Developer, I'm dedicated to continually enhancing my skill set by embracing new technologies.
+Greetings! I'm Sreekanth S, a Final Year Computer Science and Engineering (CSE) Undergraduate Student. My journey in the tech world has been an exciting one. As a self-taught Django Full Stack Developer, I'm dedicated to continually enhancing my skill set by embracing new technologies.
 
 
-Beyond web development, I'm fervently passionate about problem-solving, relishing the challenge of finding innovative solutions. Books are my constant companions, offering a gateway to diverse worlds and knowledge. Music soothes my soul and fuels my creativity. Additionally, I enjoy sharing my expertise and insights on YouTube, fostering a community of learners and creators. Join me on this exciting journey of growth and exploration in the world of technology and beyond!
+Beyond web development, I'm fervently passionate about web3 and blockchain technologies. Books are my constant companions, offering a gateway to diverse worlds and knowledge. Music soothes my soul and fuels my creativity.
+
+
+My vision is to evolve into a professional developer, committed to delivering projects within the stipulated timeframe and tailored to user needs. My life's mission is to foster a growth mindset, continuously learning and improving to become not just a better developer, but a better human being.
+
 <!-- - 🌱 I'm currently in the process of becoming a Full Stack Developer.
 - 💬 Ask me about **HTML5, CSS3, GIT VCS.**
 - 👯 I'm open to collaboration on web development projects.
