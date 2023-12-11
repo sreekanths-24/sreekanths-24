@@ -11,7 +11,8 @@
 
 <!-- Profile Views Section -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sreekanths-24&label=Profile%20views&color=0e75b6&style=flat" alt="sreekanths-24">
+  <img src="https://komarev.com/ghpvc/?username=sreekanths-24&label=Profile%20views&color=0e75b6&style=flat" alt="sreekanths-24"><br />
+  <img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white" alt="sreekanths-24">
 </p>
 
 <!-- Social Links Section -->
