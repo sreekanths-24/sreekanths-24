@@ -6,7 +6,7 @@
 
 <!-- Introduction Section -->
 <h3 align="center">
-  Active Learning Django Full Stack Developer
+  Full Stack Developer
 </h3>
 
 <!-- Profile Views Section -->
@@ -23,10 +23,10 @@
 </p>
 
 ## About Me
-Greetings! I'm Sreekanth S, a Final Year Computer Science and Engineering (CSE) Undergraduate Student. My journey in the tech world has been an exciting one. As a self-taught Django Full Stack Developer, I'm dedicated to continually enhancing my skill set by embracing new technologies.
+Greetings! I'm Sreekanth S, a  Computer Science and Engineer (CSE). My journey in the tech world has been an exciting one. As a self-taught Full Stack Developer, I'm dedicated to continually enhancing my skill set by embracing new technologies.
 
 
-Beyond web development, I'm fervently passionate about web3 and blockchain technologies. Books are my constant companions, offering a gateway to diverse worlds and knowledge. Music soothes my soul and fuels my creativity.
+Beyond web development, I'm fervently passionate about business and marketing. Books are my constant companions, offering a gateway to diverse worlds and knowledge. Music soothes my soul and fuels my creativity.
 
 
 My vision is to evolve into a professional developer, committed to delivering projects within the stipulated timeframe and tailored to user needs. My life's mission is to foster a growth mindset, continuously learning and improving to become not just a better developer, but a better human being.
