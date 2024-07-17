@@ -23,13 +23,13 @@
 </p>
 
 ## About Me
-Greetings! I'm Sreekanth S, a  Computer Science Engineer (CSE). My journey in the tech world has been an exciting one. As a self-taught Full Stack Developer, I'm dedicated to continually enhancing my skill set by embracing new technologies.
+<p align="justify">Greetings! I'm Sreekanth S, a  Computer Science Engineer (CSE). My journey in the tech world has been an exciting one. As a self-taught Full Stack Developer, I'm dedicated to continually enhancing my skill set by embracing new technologies.
 
 
 Beyond web development, I'm fervently passionate about business and marketing. Books are my constant companions, offering a gateway to diverse worlds and knowledge. Music soothes my soul and fuels my creativity.
 
 
-My vision is to evolve into a professional developer, committed to delivering projects within the stipulated timeframe and tailored to user needs. My life's mission is to foster a growth mindset, continuously learning and improving to become not just a better developer, but a better human being.
+My vision is to evolve into a professional developer, committed to delivering projects within the stipulated timeframe and tailored to user needs. My life's mission is to foster a growth mindset, continuously learning and improving to become not just a better developer, but a better human being.</p>
 
 <!-- - 🌱 I'm currently in the process of becoming a Full Stack Developer.
 - 💬 Ask me about **HTML5, CSS3, GIT VCS.**
