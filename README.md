@@ -23,7 +23,7 @@
 </p>
 
 ## About Me
-Greetings! I'm Sreekanth S, a  Computer Science and Engineer (CSE). My journey in the tech world has been an exciting one. As a self-taught Full Stack Developer, I'm dedicated to continually enhancing my skill set by embracing new technologies.
+Greetings! I'm Sreekanth S, a  Computer Science Engineer (CSE). My journey in the tech world has been an exciting one. As a self-taught Full Stack Developer, I'm dedicated to continually enhancing my skill set by embracing new technologies.
 
 
 Beyond web development, I'm fervently passionate about business and marketing. Books are my constant companions, offering a gateway to diverse worlds and knowledge. Music soothes my soul and fuels my creativity.
