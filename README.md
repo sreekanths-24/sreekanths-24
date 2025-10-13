@@ -37,7 +37,7 @@
 
 <div align="justify">
 
-👋 **Greetings!** I'm **Sreekanth S**, an **Associate Software Engineer** at **Trogon Media Pvt. Ltd.** and a passionate **Full-Stack Developer** with a strong eye for design and clean UI/UX.
+👋 **Greetings!** I'm **Sreekanth S**, an **Associate Software Engineer** and a passionate **Full-Stack Developer** with a strong eye for design and clean UI/UX.
 
 🎯 **My Journey**: Self-taught and driven with a background in **Computer Science Engineering**, I bring passion and commitment to every project. Known for my curiosity, grit, and love for both backend logic and frontend finesse. I build for **impact and growth** — not perfection.
 
